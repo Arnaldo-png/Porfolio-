@@ -1,0 +1,11 @@
+section {
+    border: 1px black solid;
+    margin: 20px;
+    padding: 20px;
+}
+h1 {
+    color: white;
+    background-color: #008080;
+    text-align: center;
+    
+}
